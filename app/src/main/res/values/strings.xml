@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NULP_mobile</string>
+    <string name="email_input_hint">Email</string>
+    <string name="password_input_hint">Password</string>
+    <string name="name_input_hint">Name</string>
+    <string name="phone_input_hint">Phone</string>
+    <string name="sign_up_button_text">SIGN UP</string>
+    <string name="sign_in_button_text">SIGN IN</string>
+    <string name="sign_up_button_switch_text">Don\'t have an account? SIGN UP</string>
+    <string name="default_greetings_message">Hello World</string>
+    <string name="no_network_message">No Network Available</string>
+    <string name="firebase_error_message">Error while authenticating to Firebase</string>
+</resources>
